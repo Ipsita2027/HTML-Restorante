@@ -1,0 +1,18 @@
+#welcome-statement{
+    color:#9400d3;
+    text-align: center;
+} 
+.Category{
+    color:darkviolet;
+    font-style: oblique;
+}
+#menu-page{
+    background-color:goldenrod
+}
+li{
+    color:beige;
+    font-style:italic;
+}
+#home-page{
+    background-color:wheat;
+}
